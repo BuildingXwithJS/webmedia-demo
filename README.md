@@ -10,7 +10,9 @@ This is a small demo showing how to use Web Media API to record user video and a
 
 ## Related links
 
-* []()
+* [Web Media API on W3C](https://www.w3.org/community/webmediaapi/)
+* [Web Media Technologies on MDN](https://developer.mozilla.org/en-US/docs/Web/Media)
+* [WebRTC getUserMedia() samples repository](https://github.com/webrtc/samples/tree/gh-pages/src/content/getusermedia)
 
 ## Useful links
 
