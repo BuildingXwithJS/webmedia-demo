@@ -2,7 +2,7 @@
 
 > Free open-source tutorial on recording videos with Web Media API
 
-This repository contains code and related materials for [introduction to Web Media API]() video.
+This repository contains code and related materials for [introduction to Web Media API](https://youtu.be/_XF69WYZOSs) video.
 
 ## Project description
 
