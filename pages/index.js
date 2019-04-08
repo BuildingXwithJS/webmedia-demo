@@ -15,7 +15,7 @@ export default class HomePage extends React.Component {
   async componentDidMount() {
     const stream = await navigator.mediaDevices.getUserMedia({video: true, audio: true});
     // show it to user
-    this.video.src = window.URL.createObjectURL(stream);
+    this.video.srcObject = stream;
     this.video.play();
     // init recording
     this.mediaRecorder = new MediaRecorder(stream, {
